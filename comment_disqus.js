@@ -1,5 +1,5 @@
 ![CDATA[
-var disqus_shortname=adysetyo;
+var disqus_shortname=adysetyo17;
 var disqus_url = disqus_blogger_current_url;
 
 (function () {
